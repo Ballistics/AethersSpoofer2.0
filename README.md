@@ -1,1 +1,1 @@
-# AethersSpoofer2.0
+Python scraper
